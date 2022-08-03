@@ -6,7 +6,7 @@ namespace algo_csharp
         public static void start()
         {
             Console.WriteLine("SimpleArraySum");
-            List<int> ar = new List<int>();
+            List<int> ar = new List<int> { 10, 44, 252 };
             ar.Add(12);
             ar.Add(13);
             ar.Add(1);
