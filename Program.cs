@@ -1,15 +1,6 @@
-﻿Console.WriteLine("Hello, World!");
+﻿// See https://aka.ms/new-console-template for more information
+using algo_csharp;
 
-List<int> ar = new List<int>();
-ar.Add(1);
-ar.Add(1);
-ar.Add(1);
-ar.Add(1);
+Console.WriteLine("Running Algo!");
 
-int total = 0;
-foreach (int i in ar)
-{
-    total += i;
-}
-Console.WriteLine(total);
-return total;
+SimpleArraySum.start();
