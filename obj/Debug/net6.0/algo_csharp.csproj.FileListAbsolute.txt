@@ -1,0 +1,15 @@
+C:\repos\algo_csharp\obj\Debug\net6.0\algo_csharp.csproj.AssemblyReference.cache
+C:\repos\algo_csharp\obj\Debug\net6.0\algo_csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\algo_csharp\obj\Debug\net6.0\algo_csharp.AssemblyInfoInputs.cache
+C:\repos\algo_csharp\obj\Debug\net6.0\algo_csharp.AssemblyInfo.cs
+C:\repos\algo_csharp\obj\Debug\net6.0\algo_csharp.csproj.CoreCompileInputs.cache
+C:\repos\algo_csharp\bin\Debug\net6.0\algo_csharp.exe
+C:\repos\algo_csharp\bin\Debug\net6.0\algo_csharp.deps.json
+C:\repos\algo_csharp\bin\Debug\net6.0\algo_csharp.runtimeconfig.json
+C:\repos\algo_csharp\bin\Debug\net6.0\algo_csharp.dll
+C:\repos\algo_csharp\bin\Debug\net6.0\algo_csharp.pdb
+C:\repos\algo_csharp\obj\Debug\net6.0\algo_csharp.dll
+C:\repos\algo_csharp\obj\Debug\net6.0\refint\algo_csharp.dll
+C:\repos\algo_csharp\obj\Debug\net6.0\algo_csharp.pdb
+C:\repos\algo_csharp\obj\Debug\net6.0\algo_csharp.genruntimeconfig.cache
+C:\repos\algo_csharp\obj\Debug\net6.0\ref\algo_csharp.dll
