@@ -14,7 +14,7 @@ namespace algo_csharp
                 total += i;
             }
             Console.WriteLine(total);
-            // return total;
+            //return total;
         }
     }
 }
