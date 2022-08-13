@@ -5,3 +5,4 @@ Console.WriteLine("Running Algo!");
 
 SimpleArraySum.start();
 SimpleArraySumV2.start();
+AVeryBigSum.start();
